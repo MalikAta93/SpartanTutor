@@ -11,7 +11,7 @@
     }
   },
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "firebase": "^4.8.0",
     "materialize-css": "^0.100.2",
     "radium": "^0.19.6",
